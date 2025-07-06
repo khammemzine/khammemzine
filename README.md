@@ -1,16 +1,35 @@
-## Hi there 👋
+# khammemzine
 
-<!--
-**khammemzine/khammemzine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur le site officiel de **khammemzine**.
 
-Here are some ideas to get you started:
+##  Présentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ce site vitrine est dédié à deux domaines principaux :
+- **Intelligence Artificielle**
+- **E-commerce**
+
+Nous développons des solutions numériques innovantes pour accompagner la transition digitale.
+
+Par passion, nous partageons également du contenu culturel autour de :
+- La musique arabo-andalouse
+- La guitare
+- Le violon
+
+##  Contenu
+
+- Présentation de nos activités
+- Lecture audio intégrée
+- Contact rapide par email
+
+##  Contact
+
+Vous pouvez nous contacter par mail : [khammemzine@gmail.com](mailto:khammemzine@gmail.com)
+
+##  Déploiement
+
+Ce site est hébergé gratuitement via **GitHub Pages**.
+
+---
+
+**Créé par Yacine Arkane Eddine**
+
