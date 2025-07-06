@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #0077cc;
+    color: white;
+    padding: 20px 0;
+}
+
+.highlight {
+    color: #ffdd57;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.framed {
+    border: 2px solid #0077cc;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    max-width: 600px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button, .contact-btn {
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, .contact-btn:hover {
+    background-color: #005fa3;
+}
+
+audio {
+    margin-top: 15px;
+    width: 300px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    margin-top: 30px;
+}
